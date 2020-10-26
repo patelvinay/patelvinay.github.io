@@ -29,7 +29,7 @@ sure you specify the correct branch_
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone https://github.com/anuraghazra/anuraghazra.github.io.git
+git clone https://github.com/patelvinay/patelvinay.github.io.git
 ```
 
 ### Step 2: Install Dependencies
