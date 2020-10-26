@@ -37,7 +37,7 @@ git clone https://github.com/patelvinay/patelvinay.github.io.git
 cd into the directory
 
 ```bash
-cd anuraghazra.github.io
+cd patelvinay.github.io
 ```
 
 install all the dependencies
