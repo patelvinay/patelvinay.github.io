@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io/">
+  <a href="https://patelvinay.com/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
     <h2 align="center">Vinay Patel</h2>
   </a>
 </p> 
 <p align="center">Creative FrontEnd Web Developer</p>
 
-[![Build Status](https://travis-ci.org/anuraghazra/anuraghazra.github.io.svg?branch=develop)](https://travis-ci.org/anuraghazra/anuraghazra.github.io)
-![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
+[![Build Status](https://travis-ci.org/patelvinay/patelvinay.github.io.svg?branch=develop)](https://travis-ci.org/patelvinay/patelvinay.github.io)
+![GitHub](https://img.shields.io/github/license/patelvinay/patelvinay.github.io)
+![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fpatelvinay.github.io)
 
 
 Strained eyes? There's DarkMode too :p
