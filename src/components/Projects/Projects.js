@@ -46,7 +46,7 @@ const Projects = () => {
 
   return (
     <ProjectsWrapper id="projects" style={{ marginBottom: 100 }}>
-      <PageHeader>Side Projects</PageHeader>
+      <PageHeader>Projects</PageHeader>
 
       {projects.allMarkdownRemark.edges.map(({ node }) => (
         <ProjectTemplate
@@ -85,7 +85,7 @@ const Projects = () => {
       ))}
 
       <SmallProjects />
-      <JsProjects />
+      {/* <JsProjects /> */}
     </ProjectsWrapper>
   );
 };
