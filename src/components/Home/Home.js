@@ -80,7 +80,7 @@ const Home = () => {
               <IconLink
                 label="twitter"
                 icon={['fab', 'twitter']}
-                href="//twitter.com/"
+                href="//twitter.com/its_vinaypatel"
               />
               <IconLink
                 label="codepen"
