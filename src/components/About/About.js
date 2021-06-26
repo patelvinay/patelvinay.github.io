@@ -29,7 +29,7 @@ const About = () => {
           <br />
           <br />
           I'm also a graduated Computer Programmer from {' '}
-          <a className="about__link" href="https://www.algonquincollege.com/online/program-info/computer-programming/#courses">
+          <a className="about__link" href="https://www.algonquincollege.com/online/program-info/computer-programming/#courses" target="_blank">
           "Algonquin College"
           </a>{' '}. I also do Graphic and UI designing. Since I love both
           programming and designing, I'm also interested in creating
