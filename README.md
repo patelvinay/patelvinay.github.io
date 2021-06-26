@@ -6,9 +6,8 @@
 </p> 
 <p align="center">Creative FrontEnd Web Developer</p>
 
-[![Build Status](https://travis-ci.org/patelvinay/patelvinay.github.io.svg?branch=develop)](https://travis-ci.org/patelvinay/patelvinay.github.io)
 ![GitHub](https://img.shields.io/github/license/patelvinay/patelvinay.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fpatelvinay.github.io)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2be0d49-06ac-48f4-9c35-8be6d60bf569/deploy-status)](https://app.netlify.com/sites/patelvinay/deploys)
 
 
 Strained eyes? There's DarkMode too :p
